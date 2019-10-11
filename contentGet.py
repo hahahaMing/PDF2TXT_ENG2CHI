@@ -42,7 +42,7 @@ def getPdfContent(filename):
 """
 pdf_char = getPdfContent(readFile)
 
-for i in ['\n','.',',','(',")","*"]:
+for i in ['\n','.',',','(',')','*','/',':','&','，','[',']','=',"™",'‚','Œ']:
     pdf_char = pdf_char.replace(i, ' ')
 
 split = pdf_char.split(' ')

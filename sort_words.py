@@ -8,7 +8,7 @@ class sortItemCount:
 
     ## 插入元素，同时统计该元素出现的次数并排序
     def insert(self, item):
-        if item is not '':
+        if item is not '' and len(item)>2 and not item.isdigit():
             if self.length == 0:
                 self.item.append(item)
                 self.value.append(1)
