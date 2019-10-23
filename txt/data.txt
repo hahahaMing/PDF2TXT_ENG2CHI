@@ -1,31 +1,31 @@
-Exercise 1 Translation of “As”
+Exercise 1 Translation of As
 30.	As the current changes, the magnetic field will change as well.
 31.	Light is bent as it moves from the water to the air.
 32.	We cannot see sound waves as they travel through air.
 33.	As semiconductor is heated, free electrons in it increase in number, and its condutivity heightens.
 34.	Complicated as the problem is, it can be solved in only two seconds with an electronic computer.
-35.	Because it is coherent, the light beam from a laser will not spread out as a beam from a flashlight orsearching does.
-36.	 Just as there is always a powerful attraction between two unlike electric charges, so there is apowerful repulsive force between two like electric charges.
+35.	Because it is coherent, the light beam from a laser will not spread out as a beam from a flashlight or searching does.
+36.	 Just as there is always a powerful attraction between two unlike electric charges, so there is a powerful repulsive force between two like electric charges.
 37. An amplifier with saturated CW power output as high as 40 mW has been reported.
 38. The silicon-controlled rectifies play an important part in automaton as they have many advantages.
 39.As ordinary radar cannot detect very small objects, microwave radars are used for this purpose.
 40. An amplifier is, as the name indicates, an apparatus for increasing the strength of incoming signals.
-41. We use the concept, as did Faraday, to enable us to pieture the field of force more clearly.
+41. We use the concept, as did Faraday, to enable us to picture the field of force more clearly.
 42. Such power cables as we need must be strong and yet conduct electricity easily.
-43. The results of a number of such calculations as shown graphically in Table 1 can show thecharacteristics of the system.
+43. The results of a number of such calculations as shown graphically in Table 1 can show the characteristics of the system.
 44. A sufficiently powerful super microscope would show nuclei to be such as we described them.
 45. Pulse Code Modulation (PCM)is such as the samples are quantized into discrete steps.
 46. A color transmission contains the same information as a black and white transmission.
-47. The wave travel in the air layer is much the same manner as microwaves are guided along awaveguide.
+47. The wave travel in the air layer is much the same manner as microwaves are guided along a waveguide.
 48. The weight of an object in space is not the same as its weight on surface of the earth.
 49. A magnetic field may be represented in the same manner as an electric field.
 50. The acceleration is directly proportional to the accelerating force and is in the same direction as the force.
-Exercise 3 Ⅰ.根据词类选择词义
-1. An electron is an extremely small corpuscle withnegative charge which rounds about the nucleus of an atom.
+Exercise 3
+1. An electron is an extremely small corpuscle with negative charge which rounds about the nucleus of an atom.
 2. The earth goes round the sun.
 3. Round surface reflector is a key unit for the solar energy device.
 4. The tree measures forty inches round.
-5. This is the whole round of knowlege.
+5. This is the whole round of knowledge.
 6. Like charges repel, unlike charges attract.
 7. In the sunbeam passing through the window there are fine grains of dust shining like gold.
 8. It is the atoms that make up iron, water oxygen and the like.
@@ -34,20 +34,19 @@ I0. Waves in water move like the waveform moves along a rope.
 11. Plastics was at first based on coal and wool.
 12.As we all know, a base reacts with an acid to form a salt.
 13. Iron and brass are base metals.
-14. We have now accumulated a considerable bodyof knowledge about electronics.
+14. We have now accumulated a considerable body of knowledge about electronics.
 15. They are in desperate need of this kind of bodied oil.
 16. Imagination bodies forth the forms of things unknown.
-Ⅱ.根据上下文选择词义
 17. Our work today is to work out the design.
 18. To move something is to do work.
 19. We like his works very much.
-20. The building of these giant iron and steel works will greatly accelerate the development of the ironand steel industry of our country.
+20. The building of these giant iron and steel works will greatly accelerate the development of the iron and steel industry of our country.
 21. The works of these watches and clocks are all home-produced.
 22. The electronic microscope possesses very high resolving power compared with the optical microscope.
 23. Power can be transmitted over a long distance.
 24. The fourth power of three is eighty-one.
-25. The combining power of one element in the compound must equal the combining powerof the other element.
-26.Explosive technological development after 1940 gave the medical profession enormous powerto fight diease and sickness.
+25. The combining power of one element in the compound must equal the combining power of the other element.
+26.Explosive technological development after 1940 gave the medical profession enormous power to fight disease and sickness.
 27.Semiconductor devices have no filament or heaters and therefore require no heating power or warmed up time.
 28. A car needs a lot of power to go fast.
 29. Streams and waterfall are suitable for the development of hydroelectric power.
@@ -55,14 +54,12 @@ I0. Waves in water move like the waveform moves along a rope.
 31. He was imprisoned in a cell.
 32. In the center of the spacious workshop stood a cell with packets of block anodes.
 33. When the ends of a copper wire are joined to a device called an electric cell a steady stream of electricity flows through the wire.
-Ⅲ.词义的引申
-（一）专业化引申
 34. His mother died of difficult labor.
 35. The major problem in manufacturing is the control of contamination and foreign material.
 36. The running of such automated establishments remains only a matter of reading various meters mounted on panels.
 37. More weight must be placed on the past history of patients.
-38. The bacterial pneumonia may complicate influenza at bothextremes of age.
-39. The doctor may insert thin needles into the skin of a patient at keypoints along meridians.
+38. The bacterial pneumonia may complicate influenza at both extremes of age.
+39. The doctor may insert thin needles into the skin of a patient at key-points along meridians.
 40. Everything is ready, so I call the morning paper up on the screen.
 41. This kind of wood works easily.
 42. The patient had been given three transfusions after he was admitted into the hospital.
@@ -72,19 +69,18 @@ I0. Waves in water move like the waveform moves along a rope.
 46.Porcelain is commonly used to resist electric current.
 47. When we speak, sound waves begin to travel and go in all directions.
 48.Zinc is easy to obtain from its ore.
-（二）具体化或形象化引申
 49. Other things being equal, copper heats up faster than iron.
 50. There are many things that should be considered in determining cutting speed.
 51. The thermometer rises or falls according as the air is hot or cold.
-52. Australian researehers have developed an implantable hearing prosthesis that inserts 22 electrodesinto the inner ear and is connected to a pocket speech processor.
-53. For the average consumer, voice-activated devices are a convenience, for the elderly andhandicapped, they may become indispensable for a wide variety of chores in the home.
-54. A large segment of mankind turns to untrammeled nature as a lastrefuge from encroachingtechnology.
+52. Australian researchers have developed an implantable hearing prosthesis that inserts 22 electrodes into the inner ear and is connected to a pocket speech processor.
+53. For the average consumer, voice-activated devices are a convenience, for the elderly and handicapped, they may become indispensable for a wide variety of chores in the home.
+54. A large segment of mankind turns to untrammeled nature as a last refuge from encroaching technology.
 55. Her soft features effectively hid her strong mechanical foundation.
-56. While the results may seem discouraging to smokers who’d like to quit without gaining weight.
+56. While the results may seem discouraging to smokers who'd like to quit without gaining weight.
 57. In general, the design procedure is not straightforward and will require trial and error.
 58. Steel and cast iron also differ in carbon.
-59. There are threethings we have to know about every force in order to be able to understand the effect it produced.
-60. At high frequencies where the integration time is short, results will be displayed in rapid successionand possibly leave insufficient time for the user to record them.
+59. There are three things we have to know about every force in order to be able to understand the effect it produced.
+60. At high frequencies where the integration time is short, results will be displayed in rapid succession and possibly leave insufficient time for the user to record them.
 61.The purpose of a driller is to cut holes.
 62. The energy is so small that something must be done to prevent the complete loss of signal.
 63. The foresight and coverage shown by the inventor of the process are most commendable.
