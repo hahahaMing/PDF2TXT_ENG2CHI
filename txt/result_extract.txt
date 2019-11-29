@@ -1,0 +1,119 @@
+/*************************/
+keyword = "ehicle"
+
+Analytic Collision Risk Calculation for Autonomos Vehicle Navigation
+
+Project AutoVision - Localization and 3D Scene Perception for an Autonomous Vehicle with a Multi-Camera System
+
+Reconfigurable Network for Efficient Inferencing in Autonomous Vehicles
+
+Design and Formal Verification of a Safe Stop Supervisor for an Automated Vehicle
+
+A New Approach to Local Navigation for Autonomous Driving Vehicles Based on the Curvature Velocity Method
+
+Predicting Vehicle Behaviors Over an Extended Horizon Using Behavior Interaction Network
+
+LookUP - Vision-Only Real-Time Precise Underground Localisation for Autonomous Mining Vehicles
+
+Distant Vehicle Detection Using Radar and Vision
+
+Real-Time Model Based Path Planning for Wheeled Vehicles
+
+Online Multilayered Motion Planning with Dynamic Constraints for Autonomous Underwater Vehicles
+
+Real-Time Intent Prediction of Pedestrians for Autonomous Ground Vehicles Via Spatio-Temporal DenseNet
+
+Feasible Coordination of Multiple Homogeneous or Heterogeneous Mobile Vehicles with Various Constraints
+
+Experimental Assessment of Plume Mapping Using Point Measurements from Unmanned Vehicles
+
+Online Estimation of Ocean Current from Sparse GPS Data for Underwater Vehicles
+
+Build Your Own Hybrid thermalEO Camera for Autonomous Vehicle
+
+SEG-VoxelNet for 3D Vehicle Detection from RGB and LiDAR Data
+
+Online Deep Learning for Improved Trajectory Tracking of Unmanned Aerial Vehicles Using Expert Knowledge
+
+Real-Time Dense Mapping for Self-Driving Vehicles Using Fisheye Cameras
+
+Search-Based 3D Planning and Trajectory Optimization for Safe Micro Aerial Vehicle Flight under Sensor Visibility Constraints
+
+A Distributed Predictive Control Approach for Cooperative Manipulation of Multiple Underwater Vehicle Manipulator Systems
+
+OVPC Mesh - 3D Free-Space Representation for Local Ground VehicleNavigation
+
+Egocentric Vision-Based Future Vehicle Localization for Intelligent Driving Assistance Systems
+
+Online Estimation of Geometric and Inertia Parameters for Multirotor Aerial Vehicles
+
+Detecting Invasive Insects with Unmanned Aerial Vehicles
+
+Where Should We Place LiDARs on the Autonomous Vehicle - An Optimal Design Approach
+
+Adaptive Probabilistic Vehicle Trajectory Prediction through Physically Feasible Bayesian Recurrent Neural Network
+
+Robust 3D Distributed Formation Control with Collision Avoidance and Application to Multirotor Aerial Vehicles
+
+What Lies in the Shadows Safe and Computation-Aware Motion Planning for Autonomous Vehicles Using Intent-Aware Dynamic Shadow Regions
+
+Visual-Odometric Localization and Mapping for Ground Vehicles Using SE(2)-XYZ Constraints
+
+Easily Deployable Underwater Acoustic Navigation System for Multi-Vehicle Environmental Sampling Applications
+
+Learning to Predict the Wind for Safe Aerial Vehicle Planning
+
+Power-Minimizing Control of a Variable-Pitch Propulsion System for Versatile Unmanned Aerial Vehicles
+
+Yaw Torque Authority for a Flapping-Wing Micro-Aerial Vehicle
+
+Optimizing Vehicle Distributions and Fleet Sizes for Shared Mobility-On-Demand
+
+A Reinforcement Learning Approach for Control of a Nature-Inspired Aerial Vehicle
+
+Automatic Real-Time Anomaly Detection for Autonomous Aerial Vehicles
+
+A Multimodal Aerial Underwater Vehicle with Extended Endurance and Capabilities
+
+Hierarchical Game-Theoretic Planning for Autonomous Vehicles
+
+Multi-Vehicle Trajectory Optimisation on Road Networks
+
+Design and Experiments of a Squid-Like Aquatic-Aerial Vehicle with Soft Morphing Fins and Arms
+
+Coverage of an Environment Using Energy-Constrained Unmanned Aerial Vehicles
+
+Online Vehicle Trajectory Prediction Using Policy Anticipation Network and Optimization-Based Context Reasoning
+
+Real-Time Vehicle Detection from Short-Range Aerial Image with Compressed MobileNet
+
+Learning to Predict Ego-Vehicle Poses for Sampling-Based Nonholonomic Motion Planning
+
+Experimental Comparison of Visual-Aided Odometry Methods for Rail Vehicles
+
+New Automated Guided Vehicle System Using Real-Time Holonic Scheduling for Warehouse Picking
+
+A Multi-Vehicle Trajectories Generator to Simulate Vehicle-To-Vehicle Encountering Scenarios
+
+Optimal Stochastic Vehicle Path Planning Using Covariance Steering
+
+Force-Based Heterogeneous Traffic Simulation for Autonomous Vehicle Testing
+
+Relative Autonomy and Navigation for Command and Control of Low-Cost Autonomous Underwater Vehicles
+
+Autonomous Navigation for Unmanned Underwater Vehicles - Real-Time Experiments Using Computer Vision
+
+Multi-Vehicle Close Enough Orienteering Problem with BA(c)zier Curves and Multi-Rotor Aerial Vehicles
+
+A Framework for On-Line Learning of Underwater Vehicles Dynamic Models
+
+Accurate and Efficient Seafloor Observations with Multiple Autonomous Underwater Vehicles - Theory and Experiments in a Hydrothermal Vent Field
+
+Development and Experimental Validation of Aerial Vehicle with Passive Rotating Shell on Each Rotor
+
+Online Multilayered Motion Planning with Dynamic Constraints for Autonomous Underwater Vehicles
+
+Development and Experimental Validation of Aerial Vehicle with Passive Rotating Shell on Each Rotor
+
+Search-Based 3D Planning and Trajectory Optimization for Safe Micro Aerial Vehicle Flight under Sensor Visibility Constraints
+
